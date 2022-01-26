@@ -1,0 +1,7 @@
+{
+  "name": "whishes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
